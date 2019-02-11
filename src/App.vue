@@ -2,6 +2,7 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
     <h2>Vue Ecommerce Website</h2>
+    <HelloWorld></HelloWorld>
   </div>
 </template>
 
